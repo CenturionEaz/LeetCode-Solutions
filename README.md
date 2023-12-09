@@ -32,7 +32,7 @@ This repository hosts my solutions to various LeetCode problems, demonstrating p
 
 ## Connect
 
-- **LinkedIn:** [linkedin.com/in/pratyush-rai-lpu/]
+- **LinkedIn:** [pratyush-rai-lpu](https://www.linkedin.com/in/pratyush-rai-lpu/)
 - **Contact:** Feel free to reach out for discussions, collaboration, or any inquiries related to programming, algorithms, or problem-solving.
 
 Happy coding! ✨
