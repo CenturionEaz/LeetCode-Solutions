@@ -1,4 +1,7 @@
 # LeetCode Solutions Repository
+![Language](https://img.shields.io/badge/language-Python%20%2F%20Modern%20C++-orange.svg)&nbsp;
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)&nbsp;
+![Update](https://img.shields.io/badge/update-weekly-green.svg)&nbsp;
 
 Welcome to my LeetCode Solutions repository! 🚀
 
